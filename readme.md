@@ -1,4 +1,5 @@
-#IPFinder 
-#Finds your ip
+# IPFinder :- Finds your ip address
 
-#python3 IPFinder.py
+```bash
+$python3 IPFinder.py
+```
